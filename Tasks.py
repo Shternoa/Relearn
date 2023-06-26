@@ -139,3 +139,17 @@
 # print(kids)
 
 # --- Candy ---#
+
+# --- Sort_Index --- #
+# def searchInsert(num, target):
+#     if target not in num:
+#         num.append(target)
+#         return sorted(num).index(target)
+#     else:
+#         return num.index(target)
+#
+#
+# sort = searchInsert([1, 3, 5, 6], 8)
+# print(sort)
+
+# --- Sort_Index --- #
