@@ -120,4 +120,22 @@
 #
 # sum = twoSum([2, 7, 11, 15], 26)
 # print(sum)
+
 # --- Finding ---#
+
+# --- Candy ---#
+# def kidsWithCandies(candies, extracandies):
+#     result = []
+#     max_candies = max(candies)
+#     for i in candies:
+#         if i >= extracandies:
+#             result.append(True)
+#         else:
+#             result.append(False)
+#     return result
+#
+#
+# kids = kidsWithCandies([2, 3, 5, 1, 3], 3)
+# print(kids)
+
+# --- Candy ---#
