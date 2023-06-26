@@ -90,3 +90,19 @@
 # print(longest_substring('abcabcabcabcabc'))
 
 # --- Длинна подстроки --- #
+
+# --- Четная минута -- #
+
+# from datetime import datetime
+#
+# odd = list(range(1, 61, 2))
+# even = list(range(2, 61, 2))
+#
+#
+# this_minute = datetime.today().minute
+#
+# if this_minute in odd:
+#     print(f'{this_minute} is odd')
+# else:
+#     print(f'{this_minute} is even')
+# --- Четная минута -- #
