@@ -173,3 +173,21 @@
 # print(is_valid("(]"))
 
 # --- Parentheses --- #
+
+# --- Remove And Count --- #
+
+# def remove_elem(nums, val):
+#     result = []
+#     count = 0
+#     for num in nums:
+#         if num != val:
+#             result.append(num)
+#         else:
+#             count += 1
+#     return result, count
+#
+#
+# print(remove_elem([3, 2, 2, 3], 3))
+# print(remove_elem([3, 2, 5, 5, 2, 3, 5, 1, 6], 5))
+
+# --- Remove And Count --- #
