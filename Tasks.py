@@ -153,3 +153,23 @@
 # print(sort)
 
 # --- Sort_Index --- #
+
+# --- Parentheses --- #
+
+# def is_valid(seek):
+#     stack = []
+#     mapping = {')': '(', '}': '{', ']': '['}
+#     for bracket in seek:
+#         if bracket in mapping:
+#             if not stack or stack[-1] != mapping[bracket]:
+#                 return False
+#             stack.pop()
+#         else:
+#             stack.append(bracket)
+#     return not stack
+#
+#
+# print(is_valid("()[]{}"))
+# print(is_valid("(]"))
+
+# --- Parentheses --- #
