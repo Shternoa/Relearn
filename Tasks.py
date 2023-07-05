@@ -207,3 +207,17 @@
 # print(climbStairs(5))
 
 # --- Steps variants --- #
+
+# --- Pair index ---#
+
+# def containsNearbyDuplicate(nums, k):
+#     for i in range(0, len(nums) - 1):
+#         for j in range(i + 1, min(i + k + 1, len(nums))):
+#             if nums[i] == nums[j]:
+#                 return True
+#     return False
+#
+#
+# print(containsNearbyDuplicate([1, 2, 3, 1], 3))
+
+# --- Pair index ---#
