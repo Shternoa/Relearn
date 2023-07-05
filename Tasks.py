@@ -221,3 +221,18 @@
 # print(containsNearbyDuplicate([1, 2, 3, 1], 3))
 
 # --- Pair index ---#
+
+
+# --- Sum digits --- #
+
+# def addDigits(num):
+#     num_str = str(num)
+#     sum_digits = 0
+#     for digit in num_str:
+#         sum_digits += int(digit)
+#     return sum_digits
+#
+#
+# print(addDigits(555))
+
+# --- Sum digits --- #
