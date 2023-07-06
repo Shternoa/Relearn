@@ -286,3 +286,22 @@
 # print(sum_array([-6, -20, -1, -10, -12]))
 
 # --- Sum without highest and lowest number --- #
+
+# --- Total amount of points --- #
+
+# def points(games):
+#     total_points = 0
+#     for game in games:
+#         goals = game.split(':')
+#         if goals[0] > goals[1]:
+#             total_points += 3
+#         elif goals[0] < goals[1]:
+#             total_points += 0
+#         elif goals[0] == goals[1]:
+#             total_points += 1
+#     return total_points
+#
+#
+# print(points(['1:0','2:0','3:0','4:0','2:1','1:3','1:4','2:3','2:4','3:4']))
+
+# --- Total amount of points --- #
