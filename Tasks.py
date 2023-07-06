@@ -236,3 +236,13 @@
 # print(addDigits(555))
 
 # --- Sum digits --- #
+
+# --- Convert number to reversed array of digits --- #
+
+# def digitize(n):
+#     return [int(char) for char in str(n)[::-1]]
+#
+#
+# print(digitize(23582357))
+
+# --- Convert number to reversed array of digits --- #
