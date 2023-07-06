@@ -305,3 +305,24 @@
 # print(points(['1:0','2:0','3:0','4:0','2:1','1:3','1:4','2:3','2:4','3:4']))
 
 # --- Total amount of points --- #
+
+# --- Count of positives / sum of negatives --- #
+
+# def count_positives_sum_negatives(arr):
+#     if not arr:
+#         return []
+#     positive = []
+#     negative = []
+#     count = 0
+#     for i in arr:
+#         if i < 0:
+#             negative.append(i)
+#         elif i > 0:
+#             positive.append(i)
+#             count +=1
+#     return [count, sum(negative)]
+#
+#
+# print(count_positives_sum_negatives([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15]))
+
+# --- Count of positives / sum of negatives --- #
