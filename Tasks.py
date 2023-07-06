@@ -13,6 +13,23 @@
 
 # --- Year -- #
 
+# --- Century Year --- #
+
+# def century(year):
+#     if year <= 0:
+#         return False
+#     if year % 100 == 0:
+#         century = year // 100
+#     else:
+#         century = year // 100 + 1
+#
+#     return century
+#
+#
+# print(century(2023))
+
+# --- Century Year --- #
+
 # --- Список купюр которыми можно заплатить N сумму -- #
 
 # def banknotes(n):
