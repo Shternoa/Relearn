@@ -246,3 +246,13 @@
 # print(digitize(23582357))
 
 # --- Convert number to reversed array of digits --- #
+
+# --- Clock --- #
+
+# def past(h, m, s):
+#     return (h * 3600000) + (m * 60000) + (s * 1000)
+#
+#
+# print(past(0, 1, 1))
+
+# --- Clock --- #
