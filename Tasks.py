@@ -256,3 +256,16 @@
 # print(past(0, 1, 1))
 
 # --- Clock --- #
+
+# --- Sum without highest and lowest number --- #
+
+# def sum_array(arr):
+#     if len(arr) <= 1:
+#         return 0
+#     arr.sort()
+#     return sum(arr[1:-1])
+#
+#
+# print(sum_array([-6, -20, -1, -10, -12]))
+
+# --- Sum without highest and lowest number --- #
