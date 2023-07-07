@@ -326,3 +326,21 @@
 # print(count_positives_sum_negatives([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15]))
 
 # --- Count of positives / sum of negatives --- #
+
+# --- Swap case --- #
+
+# def swap_case(s):
+#     result = ""
+#     for i in s:
+#         if i.islower():
+#             result += i.upper()
+#         elif i.isupper():
+#             result += i.lower()
+#         else:
+#             result += i
+#     return result
+#
+#
+# print(swap_case('Www.HackerRank.com'))
+
+# --- Swap case --- #
