@@ -366,3 +366,16 @@
 # print_full_name('Ross', 'Taylor')
 
 # --- What's Your Name? --- #
+
+# --- Mutations --- #
+
+# def mutate_string(string, position, character):
+#     new_string = list(string)
+#     new_string[position] = character
+#     mut_string = ''.join(new_string)
+#     return mut_string
+#
+#
+# print(mutate_string('abracadabra', 5, 'k'))
+
+# --- Mutations --- #
