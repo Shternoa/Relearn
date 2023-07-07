@@ -354,3 +354,15 @@
 # print(split_and_join('this is a string'))
 
 # --- String Split and Join --- #
+
+# --- What's Your Name? --- #
+
+# def print_full_name(first, last):
+#     full_name = f"{first} {last}"
+#     message = f"Hello {full_name}! You just delved into python."
+#     print(message)
+#
+#
+# print_full_name('Ross', 'Taylor')
+
+# --- What's Your Name? --- #
