@@ -344,3 +344,13 @@
 # print(swap_case('Www.HackerRank.com'))
 
 # --- Swap case --- #
+
+# --- String Split and Join --- #
+
+# def split_and_join(line):
+#     words = line.split(' ')
+#     return '-'.join(words)
+#
+# print(split_and_join('this is a string'))
+
+# --- String Split and Join --- #
