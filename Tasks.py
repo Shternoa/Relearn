@@ -393,3 +393,22 @@
 # print(count_substring('ABCDCDC', 'CDC'))
 
 # --- Find a string --- #
+
+# --- String Validators --- #
+
+# s = input()
+#
+# is_alnum = any(char.isalnum() for char in s)
+# is_alpha = any(char.isalpha() for char in s)
+# is_digit = any(char.isdigit() for char in s)
+# is_lower = any(char.islower() for char in s)
+# is_upper = any(char.isupper() for char in s)
+#
+# print(is_alnum)
+# print(is_alpha)
+# print(is_digit)
+# print(is_lower)
+# print(is_upper)
+
+# --- String Validators --- #
+
